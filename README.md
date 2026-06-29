@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kri-jha/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/kri-jha/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kri-jha/leetcode-problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kri-jha/leetcode-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kri-jha/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/kri-jha/leetcode-problems/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kri-jha/leetcode-problems/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kri-jha/leetcode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
