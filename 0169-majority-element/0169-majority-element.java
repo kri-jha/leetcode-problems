@@ -3,19 +3,19 @@ class Solution {
         int n = nums.length;
 
         HashMap<Integer, Integer> map = new HashMap<>();
-        int m =0;
+        // int m =0;
 
         for(int num : nums)
         {
             map.put(num , map.getOrDefault(num , 0)+1);
             if(map.get(num)>n/2)
             {
-                m =num;
+            return num;
 
             }
              
         }
-        return m;
+        return -1;
 
         
     }
