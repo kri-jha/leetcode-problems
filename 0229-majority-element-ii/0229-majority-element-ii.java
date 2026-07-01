@@ -1,18 +1,56 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        List<Integer> ans = new ArrayList<>();
+        int candidate1 = 0;
+        int candidate2 = 0;
 
-        int n = nums.length;
+        int count1 = 0;
+        int count2 = 0;
 
+        // Phase 1: Possible candidates find karo
         for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+
+            if (num == candidate1) {
+                count1++;
+            } 
+            else if (num == candidate2) {
+                count2++;
+            } 
+            else if (count1 == 0) {
+                candidate1 = num;
+                count1 = 1;
+            } 
+            else if (count2 == 0) {
+                candidate2 = num;
+                count2 = 1;
+            } 
+            else {
+                count1--;
+                count2--;
+            }
         }
 
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (entry.getValue() > n / 3) {
-                ans.add(entry.getKey());
+        // Phase 2: Actual frequency verify karo
+        count1 = 0;
+        count2 = 0;
+
+        for (int num : nums) {
+            if (num == candidate1) {
+                count1++;
+            } 
+            else if (num == candidate2) {
+                count2++;
             }
+        }
+
+        List<Integer> ans = new ArrayList<>();
+        int n = nums.length;
+
+        if (count1 > n / 3) {
+            ans.add(candidate1);
+        }
+
+        if (count2 > n / 3) {
+            ans.add(candidate2);
         }
 
         return ans;
