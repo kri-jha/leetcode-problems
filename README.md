@@ -48,10 +48,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kri-jha/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/kri-jha/leetcode-problems/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kri-jha/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/kri-jha/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/kri-jha/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Counting
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kri-jha/leetcode-problems/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kri-jha/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
