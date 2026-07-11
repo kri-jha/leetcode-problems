@@ -50,6 +50,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kri-jha/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/kri-jha/leetcode-problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/kri-jha/leetcode-problems/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +74,5 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kri-jha/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/kri-jha/leetcode-problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
