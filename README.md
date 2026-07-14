@@ -29,6 +29,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/kri-jha/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kri-jha/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kri-jha/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -47,6 +48,7 @@
 | [0075-sort-colors](https://github.com/kri-jha/leetcode-problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kri-jha/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kri-jha/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kri-jha/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -80,5 +82,6 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kri-jha/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/kri-jha/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kri-jha/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kri-jha/leetcode-problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
