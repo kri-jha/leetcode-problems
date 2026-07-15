@@ -31,6 +31,7 @@
 | [0229-majority-element-ii](https://github.com/kri-jha/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kri-jha/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/kri-jha/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kri-jha/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
@@ -72,6 +73,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/kri-jha/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kri-jha/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/kri-jha/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kri-jha/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Recursion
 |  |
@@ -88,6 +90,7 @@
 | [0125-valid-palindrome](https://github.com/kri-jha/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kri-jha/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kri-jha/leetcode-problems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kri-jha/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kri-jha/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Number Theory
 |  |
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kri-jha/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kri-jha/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
