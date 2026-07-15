@@ -36,6 +36,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/kri-jha/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kri-jha/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,4 +85,8 @@
 | [0125-valid-palindrome](https://github.com/kri-jha/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kri-jha/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kri-jha/leetcode-problems/tree/master/0344-reverse-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kri-jha/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
