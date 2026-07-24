@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kri-jha/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kri-jha/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kri-jha/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kri-jha/leetcode-problems/tree/master/0344-reverse-string) |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/kri-jha/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
