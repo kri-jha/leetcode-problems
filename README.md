@@ -60,6 +60,7 @@
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kri-jha/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kri-jha/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kri-jha/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kri-jha/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/kri-jha/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kri-jha/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kri-jha/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -130,4 +132,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kri-jha/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
