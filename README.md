@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kri-jha/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/kri-jha/leetcode-problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kri-jha/leetcode-problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kri-jha/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kri-jha/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -44,6 +45,7 @@
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/kri-jha/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kri-jha/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/kri-jha/leetcode-problems/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/kri-jha/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kri-jha/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kri-jha/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -84,6 +86,7 @@
 | [0053-maximum-subarray](https://github.com/kri-jha/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/kri-jha/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kri-jha/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/kri-jha/leetcode-problems/tree/master/0877-stone-game) |
 ## Counting
 |  |
 | ------- |
@@ -160,4 +163,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kri-jha/leetcode-problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kri-jha/leetcode-problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
