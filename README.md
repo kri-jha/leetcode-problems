@@ -16,6 +16,7 @@
 | [0877-stone-game](https://github.com/kri-jha/leetcode-problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kri-jha/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kri-jha/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kri-jha/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/kri-jha/leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -38,6 +39,7 @@
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/kri-jha/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kri-jha/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kri-jha/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kri-jha/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kri-jha/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/kri-jha/leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -72,6 +74,7 @@
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kri-jha/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kri-jha/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kri-jha/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kri-jha/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kri-jha/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kri-jha/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
