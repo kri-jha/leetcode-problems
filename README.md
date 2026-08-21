@@ -17,6 +17,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kri-jha/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kri-jha/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kri-jha/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kri-jha/leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3731-find-missing-elements](https://github.com/kri-jha/leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/kri-jha/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kri-jha/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kri-jha/leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [1922-count-good-numbers](https://github.com/kri-jha/leetcode-problems/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kri-jha/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kri-jha/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kri-jha/leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kri-jha/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kri-jha/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kri-jha/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -64,6 +67,7 @@
 | [0136-single-number](https://github.com/kri-jha/leetcode-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kri-jha/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kri-jha/leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +140,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kri-jha/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kri-jha/leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kri-jha/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
@@ -168,6 +173,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kri-jha/leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kri-jha/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
