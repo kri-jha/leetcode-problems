@@ -137,6 +137,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/kri-jha/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kri-jha/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kri-jha/leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kri-jha/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kri-jha/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kri-jha/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -190,4 +191,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/kri-jha/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kri-jha/leetcode-problems/tree/master/0040-combination-sum-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kri-jha/leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
