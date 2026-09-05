@@ -54,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kri-jha/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/kri-jha/leetcode-problems/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/kri-jha/leetcode-problems/tree/master/0486-predict-the-winner) |
@@ -119,6 +120,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kri-jha/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/kri-jha/leetcode-problems/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/kri-jha/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kri-jha/leetcode-problems/tree/master/0509-fibonacci-number) |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kri-jha/leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kri-jha/leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
