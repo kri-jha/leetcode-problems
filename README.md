@@ -180,6 +180,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/kri-jha/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/kri-jha/leetcode-problems/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Counting Sort
 |  |
@@ -214,4 +215,13 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kri-jha/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/kri-jha/leetcode-problems/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kri-jha/leetcode-problems/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kri-jha/leetcode-problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
