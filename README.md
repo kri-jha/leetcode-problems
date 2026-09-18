@@ -41,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kri-jha/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kri-jha/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/kri-jha/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kri-jha/leetcode-problems/tree/master/0229-majority-element-ii) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kri-jha/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/kri-jha/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/kri-jha/leetcode-problems/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/kri-jha/leetcode-problems/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/kri-jha/leetcode-problems/tree/master/0486-predict-the-winner) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kri-jha/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/kri-jha/leetcode-problems/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/kri-jha/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kri-jha/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kri-jha/leetcode-problems/tree/master/0125-valid-palindrome) |
