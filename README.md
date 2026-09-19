@@ -18,6 +18,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kri-jha/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/kri-jha/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/kri-jha/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kri-jha/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/kri-jha/leetcode-problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kri-jha/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kri-jha/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/kri-jha/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kri-jha/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kri-jha/leetcode-problems/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Counting Sort
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kri-jha/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kri-jha/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kri-jha/leetcode-problems/tree/master/0901-online-stock-span) |
 ## Design
 |  |
