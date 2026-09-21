@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/kri-jha/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kri-jha/leetcode-problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kri-jha/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/kri-jha/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/kri-jha/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kri-jha/leetcode-problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/kri-jha/leetcode-problems/tree/master/0162-find-peak-element) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kri-jha/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/kri-jha/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/kri-jha/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/kri-jha/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kri-jha/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kri-jha/leetcode-problems/tree/master/0877-stone-game) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kri-jha/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/kri-jha/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/kri-jha/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kri-jha/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kri-jha/leetcode-problems/tree/master/0901-online-stock-span) |
@@ -222,6 +225,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kri-jha/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/kri-jha/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/kri-jha/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kri-jha/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kri-jha/leetcode-problems/tree/master/0901-online-stock-span) |
@@ -237,4 +241,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kri-jha/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/kri-jha/leetcode-problems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
