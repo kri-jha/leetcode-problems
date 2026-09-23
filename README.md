@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/kri-jha/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/kri-jha/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kri-jha/leetcode-problems/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/kri-jha/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kri-jha/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kri-jha/leetcode-problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kri-jha/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kri-jha/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/kri-jha/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kri-jha/leetcode-problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kri-jha/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/kri-jha/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kri-jha/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/kri-jha/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kri-jha/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/kri-jha/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/kri-jha/leetcode-problems/tree/master/0486-predict-the-winner) |
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kri-jha/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kri-jha/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kri-jha/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/kri-jha/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -224,6 +228,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kri-jha/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kri-jha/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kri-jha/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/kri-jha/leetcode-problems/tree/master/0496-next-greater-element-i) |
