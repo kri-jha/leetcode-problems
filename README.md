@@ -156,6 +156,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kri-jha/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kri-jha/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kri-jha/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kri-jha/leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kri-jha/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -199,6 +200,7 @@
 | [0739-daily-temperatures](https://github.com/kri-jha/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kri-jha/leetcode-problems/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting Sort
 |  |
 | ------- |
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kri-jha/leetcode-problems/tree/master/0085-maximal-rectangle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
