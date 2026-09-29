@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kri-jha/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/kri-jha/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/kri-jha/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/kri-jha/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kri-jha/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/kri-jha/leetcode-problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kri-jha/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -197,6 +198,7 @@
 | [0085-maximal-rectangle](https://github.com/kri-jha/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/kri-jha/leetcode-problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/kri-jha/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/kri-jha/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kri-jha/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kri-jha/leetcode-problems/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
@@ -260,4 +262,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/kri-jha/leetcode-problems/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
