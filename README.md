@@ -264,6 +264,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kri-jha/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
