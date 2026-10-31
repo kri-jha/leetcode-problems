@@ -1,61 +1,37 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        ArrayList<Integer> res = new ArrayList<>();
 
-        rv(root , res ,0);
+        List<Integer> ans = new ArrayList<>();
 
-        return res;
-    }
+        if (root == null) return ans;
 
-    public static void rv(TreeNode root, ArrayList<Integer> res , int level)
-    {
-     if(root ==null) return ;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
 
-//     if(root.left ==null)
-//     {
-// rv(root.right , res);
-//         // return ;
-//     }
-        
-//                 res.add(root.right);
-//      if(root.right==null)
-//     { 
-//        rv(root.left , res);
-//     }
-//     res.add(root.left);
+        while (!q.isEmpty()) {
 
-//     if(root.left!=null && root.right!=null)
-//     {
-//         rv(root.right , res);
-//     }
-//     res.add(root.right);
-       
-    
-//     //   rv(root.left , res);
+            int size = q.size();
 
-  if(level==res.size())
-  {
-    res.add(root.val);
-  }
+            for (int i = 0; i < size; i++) {
 
-  rv(root.right , res , level+1);
-    rv(root.left , res , level+1);
+                TreeNode curr = q.poll();
 
+                // Last node of every level
+                if (i == size - 1) {
+                    ans.add(curr.val);
+                }
 
+                if (curr.left != null) {
+                    q.add(curr.left);
+                }
+
+                if (curr.right != null) {
+                    q.add(curr.right);
+                }
+            }
+        }
+
+        return ans;
     }
 }
