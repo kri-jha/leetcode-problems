@@ -24,6 +24,7 @@
 | [0496-next-greater-element-i](https://github.com/kri-jha/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/kri-jha/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kri-jha/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/kri-jha/leetcode-problems/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/kri-jha/leetcode-problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kri-jha/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kri-jha/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kri-jha/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/kri-jha/leetcode-problems/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/kri-jha/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kri-jha/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kri-jha/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
