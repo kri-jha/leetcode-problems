@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/kri-jha/leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kri-jha/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kri-jha/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kri-jha/leetcode-problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/kri-jha/leetcode-problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kri-jha/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kri-jha/leetcode-problems/tree/master/0085-maximal-rectangle) |
@@ -125,6 +126,7 @@
 | [0005-longest-palindromic-substring](https://github.com/kri-jha/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kri-jha/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kri-jha/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kri-jha/leetcode-problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/kri-jha/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/kri-jha/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kri-jha/leetcode-problems/tree/master/0509-fibonacci-number) |
@@ -196,6 +198,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kri-jha/leetcode-problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/kri-jha/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kri-jha/leetcode-problems/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/kri-jha/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
